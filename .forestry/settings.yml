@@ -7,7 +7,6 @@ sections:
 - type: document
   path: j
   label: Sheet
-  match: "**/*"
 - type: heading
   label: Work
 - type: document
