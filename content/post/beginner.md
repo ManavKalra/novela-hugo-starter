@@ -5,7 +5,6 @@ title: Beginner
 excerpt: This is my first time here
 date: 2021-03-30T18:30:00+00:00
 hero: "/images/download-1.png"
-draft: true
 
 ---
 Hello World.
